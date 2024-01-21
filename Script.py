@@ -8,16 +8,16 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/Tamilanda29>Created</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/Tamilanda29>Creator</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: Python👨🏻‍💻
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: Elephant SQL🐘
-✯ Mʏ Sᴇʀᴠᴇʀ: VPS
-✯ Mʏ Vᴇʀꜱɪᴏɴ: Prince Moviezzz ᴠ4.5.0</b>"""
+✯ Mʏ Sᴇʀᴠᴇʀ: VPS 🦇
+✯ Mʏ Vᴇʀꜱɪᴏɴ: Prince Moviezzz 🎟️ ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/MrMKN/PROFESSOR-BOT>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/Gubera24/Toon-Filter>Toon-Filter</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/Mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a></b>"""
+<b>ᴅᴇᴠ: <a herf=https://t.me/Tamilanda29>Creator</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
