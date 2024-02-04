@@ -2,7 +2,7 @@
 <p align="center">
 
 <h1 align="center">
-  <b> ❤️‍🔥Superman filer Bot❤️‍🔥</b>
+  <b> 🔥Superman filer Bot🔥</b>
 </h1>
 
 <img src="https://telegra.ph/file/b974cbfe268291da0bb08.jpg" alt="logo" target="/blank">
