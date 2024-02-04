@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Toon+Filter+Bot!;Created+By+Prime+Video+Tamil!;A+Simple+Horror+Autofilter+Bot!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Toon+Filter+Bot!;Created+By+Prime+Video+Tamil!;A+Simple+Superman+Autofilter+Bot!)</p>
 <p align="center">
 
 <h1 align="center">
